@@ -1,6 +1,7 @@
 import java.util.Map;
 
 
+
 public interface CountMap<E> {
     // добавляет элемент в этот контейнер.
     void add(E o);
